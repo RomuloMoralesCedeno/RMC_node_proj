@@ -1,0 +1,22 @@
+{
+  "name": "rmc_node_proj",
+  "version": "1.0.0",
+  "description": "rmc vacation project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomuloMoralesCedeno/RMC_node_proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomuloMoralesCedeno/RMC_node_proj/issues"
+  },
+  "homepage": "https://github.com/RomuloMoralesCedeno/RMC_node_proj#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
